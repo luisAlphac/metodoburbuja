@@ -1,0 +1,30 @@
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.exe
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.deps.json
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.runtimeconfig.json
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.dll
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\ref\MetodoBurbuja.dll
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.pdb
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.AssemblyInfo.cs
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.dll
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\ref\MetodoBurbuja.dll
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.pdb
+C:\Users\frank\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.genruntimeconfig.cache
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.exe
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.deps.json
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.runtimeconfig.json
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.dll
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\bin\Debug\net6.0\MetodoBurbuja.pdb
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.AssemblyInfoInputs.cache
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.AssemblyInfo.cs
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.dll
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\refint\MetodoBurbuja.dll
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.pdb
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\MetodoBurbuja.genruntimeconfig.cache
+C:\Users\juanp\Desktop\cursos virtuales unad\PROGRAMACIÓN\MetodoBurbuja\MetodoBurbuja\MetodoBurbuja\obj\Debug\net6.0\ref\MetodoBurbuja.dll
